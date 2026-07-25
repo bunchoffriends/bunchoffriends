@@ -8,5 +8,5 @@
  ${\textsf{\color{#FF9B19} ۶ৎ }}$ 
 
 <a href="https://flipside.atabook.org" target="_blank">atabook</a>　　　<a href="https://pisso4.straw.page" target="_blank">strawpage</a>
-
+<br>
 <a href="https://github.com/flairforthedramatic" target="_blank">hanbon</a>,　<a href="https://github.com/lronmary" target="_blank">will</a>　&　<a href="https://github.com/thineholyone" target="_blank">coy</a>

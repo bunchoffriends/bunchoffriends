@@ -9,7 +9,7 @@
 
 <a href="https://flipside.atabook.org" target="_blank">atabook</a>　𓈒　<a href="https://bofriends.straw.page" target="_blank">strawpage</a>　𓈒　<a href="https://rentry.co/potero" target="_blank">rentry</a>
 <br>
-<a href="https://github.com/flairforthedramatic" target="_blank">hanbon</a> ﹐　<a href="https://github.com/lronmary" target="_blank">will</a>　﹠　<a href="https://github.com/toxicgemstone" target="_blank">coy</a>
-
 
 ![](https://i.postimg.cc/HWQMsd3T/Untitled743-20260727203150.png)
+
+<a href="https://github.com/flairforthedramatic" target="_blank">hanbon</a> ﹐　<a href="https://github.com/lronmary" target="_blank">will</a>　﹠　<a href="https://github.com/toxicgemstone" target="_blank">coy</a>

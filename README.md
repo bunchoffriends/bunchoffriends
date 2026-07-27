@@ -9,4 +9,4 @@
 
 <a href="https://flipside.atabook.org" target="_blank">atabook</a>　𓈒　<a href="https://bofriends.straw.page" target="_blank">strawpage</a>　𓈒　<a href="https://rentry.co/wipd" target="_blank">rentry</a>
 <br>
-<a href="https://github.com/flairforthedramatic" target="_blank">hanbon</a> ﹐　<a href="https://github.com/lronmary" target="_blank">will</a>　﹠　<a href="https://github.com/thineholyone" target="_blank">coy</a>
+<a href="https://github.com/flairforthedramatic" target="_blank">hanbon</a> ﹐　<a href="https://github.com/lronmary" target="_blank">will</a>　﹠　<a href="https://github.com/toxicgemstone" target="_blank">coy</a>
